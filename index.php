@@ -35,7 +35,7 @@
     <!-- user input -->
     <form action="./results.php" method="post" target="results">  
       <label for=numberGuess">Number (1-6) :</label>
-      <input type="number" step="1" min="1"  max="6" name="numberGuess">
+      <input type="number" step="1" min="1" max="6" name="numberGuess">
       <br>
       <br>
 
